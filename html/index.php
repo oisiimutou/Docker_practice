@@ -1,18 +1,16 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>初めてのphp</title>
+    <title>正木翔也のホームページ</title>
 </head>
 <body>
+<header><h1>正木翔也のホームページ</h1></header>
+<section><img src="/images/profile.jpg" alt="自画像"></section>
+<link rel="stylesheet" href="styles/index.css">
+
     
 </body>
-<h1>
-初めてのphp
-</h1>
-<h2>ヘッダー</h2>
-<div>divタブ</div>
-<div>小文字</div>
 </html>
