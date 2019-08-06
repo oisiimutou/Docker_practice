@@ -13,7 +13,7 @@
     <header>
         <h1>正木翔也のホームページ</h1>
     </header>
-    <section><img src="/images/profile.jpg" alt="自画像">
+    <section id="profile"><img src="/images/profile.jpg" alt="自画像">
         <ul>
             <ul>
                 <li>正木翔也　（まさきしょうや）
@@ -23,12 +23,12 @@
                 <li><a href="#">プロフィール</a></li>
             </ul>
         </ul>
-    </section>
+    </section id="address">
     <section class="contact-message"><span>If you have any enquiries regarding </span>
         <div>mail:shouya masaki@gmail.com</div>
         <div> <a href="mailto:shouya masaki@gmail.com">shouya masaki@gmail.com</a></div>
     </section>
-    <section>
+    <section id="history">
         <div>所属:
         </div>
         <div>オフィスエンスペース</div>
