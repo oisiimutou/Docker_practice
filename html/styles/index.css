@@ -1,18 +1,21 @@
+html {
+    margin: 10px;
+}
+
+
 h1{
     text-align: center;
 }
 
 
 
-section img  {
-    width: 200px;
-}
+
 
 section ul {
     list-style-type: none;
     padding-left: 0px
 }
 
-.contact-message {
+.width-200 {
     width: 200px;
 }
