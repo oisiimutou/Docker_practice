@@ -1,23 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="styles/index.css">
     <title>正木翔也のホームページ</title>
 </head>
-<body>
-<header><h1>正木翔也のホームページ</h1></header>
-<section><img src="/images/profile.jpg" alt="自画像">
-<ul><ul>
-    <li>正木翔也　（まさきしょうや）
-    </li>
-    <li>生年月日（１９９６年９月１６日）</li>
-    <li>血液型O型</li>
-    <li><a href="#">プロフィール</a></li>
-</ul></ul></section>
-<link rel="stylesheet" href="styles/index.css">
 
-    
+<body>
+    <header>
+        <h1>正木翔也のホームページ</h1>
+    </header>
+    <section><img src="/images/profile.jpg" alt="自画像">
+        <ul>
+            <ul>
+                <li>正木翔也　（まさきしょうや）
+                </li>
+                <li>生年月日（１９９６年９月１６日）</li>
+                <li>血液型O型</li>
+                <li><a href="#">プロフィール</a></li>
+            </ul>
+        </ul>
+    </section>
+    <section class="contact-message"><span>If you have any enquiries regarding </span>
+        <div>mail:shouya masaki@gmail.com</div>
+        <div> <a href="mailto:shouya masaki@gmail.com">shouya masaki@gmail.com</a></div>
+    </section>
+
+
+
 </body>
+
 </html>
