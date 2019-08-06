@@ -30,7 +30,9 @@
     </section>
     <section>
         <div>所属:
-        </div><div>オフィスエンスペース</div><div>980-9999</div>
+        </div>
+        <div>オフィスエンスペース</div>
+        <div>980-9999</div>
         <div>宮城県仙台市青葉区国分寺1-1-1</div>
         <div>TEL: 022-1234-5678</div>
         <div>FAX: 022-1234-5678</div>
