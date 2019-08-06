@@ -37,6 +37,22 @@
         <div>TEL: 022-1234-5678</div>
         <div>FAX: 022-1234-5678</div>
     </section>
+    <section>
+        <h3>★★★　更新情報　★★★</h3>
+        <article>
+            <h4>舞台</h4>
+            <div>そろそろ暑くなたよ</div>
+        </article>
+        <article>
+            <h4>TV
+            </h4>
+            <div>おもしろ番組ないかな</div>
+        </article>
+        <article>
+            <h4>映画</h4>
+            <div>映画おもしろかった。阿部（仮）</div>
+        </article>
+    </section>
 
 
 
