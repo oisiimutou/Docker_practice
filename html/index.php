@@ -8,7 +8,14 @@
 </head>
 <body>
 <header><h1>正木翔也のホームページ</h1></header>
-<section><img src="/images/profile.jpg" alt="自画像"></section>
+<section><img src="/images/profile.jpg" alt="自画像">
+<ul><ul>
+    <li>正木翔也　（まさきしょうや）
+    </li>
+    <li>生年月日（１９９６年９月１６日）</li>
+    <li>血液型O型</li>
+    <li><a href="#">プロフィール</a></li>
+</ul></ul></section>
 <link rel="stylesheet" href="styles/index.css">
 
     
