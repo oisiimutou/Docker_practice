@@ -56,7 +56,7 @@
             </section>
             <div id="content right"></div>
             <section id="myfevorite">
-                <h1>◇好きなdrinks◇</h1>
+                <h1>◇like drinks◇</h1>
                 <div>ウーロン茶</div>
                 <div>アイスコーヒー</div>
                 <div>緑茶</div>
