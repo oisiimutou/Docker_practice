@@ -27,13 +27,19 @@ h1{
     flex-flow: row nowrap;
 }
 
+#content-left {
+    flex-grow: 1;
+}
+#content-right {
+    flex-grow: 2;
+}
 #history h3 {
     text-align: center;
 }
 
 #history article {
-    border-top: solid 1px gray;
-    border-bottom: solid gray;   
+    border-top: solid 1px;
+    border-bottom: solid 1px;   
 margin-top: -1px;
 padding-bottom: 1em;
 }

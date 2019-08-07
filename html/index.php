@@ -23,8 +23,9 @@
                     <li><a href="#">プロフィール</a></li>
                 </ul>
             </section>
-            <section id="address" class="width-200">
-                <span>If you have any enquiries regarding </span>
+            <!-- <section id="contact" class="width-200"> -->
+            <section id="contact">
+                <div class="width-200">If you have any enquiries regarding </div>
                 <div><a href="mailto:shouya masaki@gmail.com">shouya masaki@gmail.com</a></div>
             </section>
             <section id="address">
