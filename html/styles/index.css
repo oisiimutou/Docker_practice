@@ -27,3 +27,8 @@ h1{
     flex-flow: row nowrap;
 }
 
+#history article {
+    border-top: solid 1px gray;
+    border-bottom: solid gray;   
+margin-top: -1px;
+}
