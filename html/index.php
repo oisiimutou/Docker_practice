@@ -38,11 +38,12 @@
             </section>
         </div>
         <div id="content-right">
-            <section id="history">
+            <section id="history" class="lines">
                 <h3>★★★　更新情報　★★★</h3>
                 <article>
                     <h4>舞台</h4>
-                    <div>そろそろ暑くなたよ</div>
+                    <div>そろそろ暑くなたよ <p class="new"></p></div>
+                    <p class="new"></p>
                 </article>
                 <article>
                     <h4>TV
@@ -55,7 +56,7 @@
                 </article>
             </section>
             <div id="content right"></div>
-            <section id="myfevorite">
+            <section id="myfevorite" class="lines">
                 <h1>◇like drinks◇</h1>
                 <article>
 
