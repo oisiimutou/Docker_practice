@@ -23,12 +23,12 @@
                     <li><a href="#">プロフィール</a></li>
                 </ul>
             </section>
-            <!-- <section id="contact" class="width-200"> -->
-            <section id="contact">
+            
+            <section id="contact" class="section-space">
                 <div class="width-200">If you have any enquiries regarding </div>
                 <div><a href="mailto:shouya masaki@gmail.com">shouya masaki@gmail.com</a></div>
             </section>
-            <section id="address">
+            <section id="address"class="section-space">
                 <div>所属:</div>
                 <div>オフィスエンスペース</div>
                 <div>980-9999</div>
