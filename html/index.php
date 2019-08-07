@@ -62,7 +62,7 @@
                     <div>・ウーロン茶</div>
                     <div>・アイスコーヒー</div>
                     <div>・緑茶</div>
-                    <div>・美味しい無糖</div>
+                    <div>・おいしい無糖</div>
             </section>
 
 
