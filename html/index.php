@@ -57,10 +57,12 @@
             <div id="content right"></div>
             <section id="myfevorite">
                 <h1>◇like drinks◇</h1>
-                <div>ウーロン茶</div>
-                <div>アイスコーヒー</div>
-                <div>緑茶</div>
-                <div>美味しい無糖</div>
+                <article>
+
+                    <div>・ウーロン茶</div>
+                    <div>・アイスコーヒー</div>
+                    <div>・緑茶</div>
+                    <div>・美味しい無糖</div>
             </section>
 
 
