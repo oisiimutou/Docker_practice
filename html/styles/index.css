@@ -27,8 +27,14 @@ h1{
     flex-flow: row nowrap;
 }
 
+#history h3 {
+    text-align: center;
+}
+
 #history article {
     border-top: solid 1px gray;
     border-bottom: solid gray;   
 margin-top: -1px;
+padding-bottom: 1em;
 }
+
