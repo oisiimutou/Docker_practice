@@ -23,12 +23,12 @@
                     <li><a href="#">プロフィール</a></li>
                 </ul>
             </section>
-            
+
             <section id="contact" class="section-space">
                 <div class="width-200">If you have any enquiries regarding </div>
                 <div><a href="mailto:shouya masaki@gmail.com">shouya masaki@gmail.com</a></div>
             </section>
-            <section id="address"class="section-space">
+            <section id="address" class="section-space">
                 <div>所属:</div>
                 <div>オフィスエンスペース</div>
                 <div>980-9999</div>
@@ -54,6 +54,15 @@
                     <div>映画おもしろかった。阿部（仮）</div>
                 </article>
             </section>
+            <div id="content right"></div>
+            <section id="myfevorite">
+                <h1>◇好きなdrinks◇</h1>
+                <div>ウーロン茶</div>
+                <div>アイスコーヒー</div>
+                <div>緑茶</div>
+                <div>美味しい無糖</div>
+            </section>
+
 
         </div>
 
